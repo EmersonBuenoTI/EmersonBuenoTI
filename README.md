@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmersonBuenoTI
 - 👀 I’m interested in front and back end programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me emersonbueno.ti@outlook.com
 
 <!---
